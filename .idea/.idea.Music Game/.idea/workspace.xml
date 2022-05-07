@@ -7,10 +7,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65CAB14A-C59E-4552-B77F-98A4AED18F9E/45/fdf9f49b/BoxCollider2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC2876E8-FF0B-42A2-A2A1-1B51F2B23C8A/51/13b7f1d8/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PointManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/NoteController.cs" />
         <option value="$PROJECT_DIR$/Assets/NoteTargetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MetronomeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimeLineController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimeLineController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PointManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteTargetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MetronomeController.cs" />
       </list>
     </option>
   </component>
@@ -59,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651933755327</updated>
-      <workItem from="1651933763933" duration="1877000" />
+      <workItem from="1651933763933" duration="10995000" />
     </task>
     <servers />
   </component>
