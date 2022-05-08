@@ -20,12 +20,7 @@ public class SongController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            foreach (var note in notes)
-            {
-                note.isPlaying = true;
-                note.isRecording = false;
-            }
-            StartCoroutine(PlaySoundWithDelay(1));
+            StartSong();
         }
         
         if (Input.GetKeyDown(KeyCode.P))
@@ -33,7 +28,18 @@ public class SongController : MonoBehaviour
             StartCoroutine(PlaySoundWithDelay(1));
         }
     }
-    
+
+    public void StartSong()
+    {
+        foreach (var note in notes)
+        {
+            note.isPlaying = true;
+            note.isRecording = false;
+        }
+
+        StartCoroutine(PlaySoundWithDelay(1));
+    }
+
     private IEnumerator PlaySoundWithDelay(float seconds)
     {
         yield return new WaitForSeconds(seconds);

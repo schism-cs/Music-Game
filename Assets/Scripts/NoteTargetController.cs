@@ -32,7 +32,9 @@ public class NoteTargetController : MonoBehaviour
     private void Update()
     {
         _spriteRenderer.color = _isActive ? activeColor : inactiveColor;
-        _isActive = Input.GetKey(activationKey);
+        _isActive = _isActive || Input.GetKey(activationKey);
+
+        CheckIfIsActive();
 
         var isPressed = Input.GetKeyDown(activationKey);
         if (isRecording && isPressed)
@@ -44,6 +46,36 @@ public class NoteTargetController : MonoBehaviour
             noteController.noteSpeed = metronome.LineSpeed;
             noteController.isRecording = true;
             noteController.isPlaying = true;
+        }
+
+        if (Input.GetKeyUp(activationKey))
+        {
+            _isActive = false;
+        }
+    }
+
+    private void CheckIfIsActive()
+    {
+        if (Input.touchCount <= 0) return;
+
+        for (var i = 0; i < Input.touchCount; ++i)
+        {
+            var wp = Camera.main.ScreenToWorldPoint(Input.GetTouch(i).position);
+            var touchPos = new Vector2(wp.x, wp.y);
+            
+            if (_boxCollider2D == Physics2D.OverlapPoint(touchPos))
+            {
+                if (Input.GetTouch(i).phase == TouchPhase.Began)
+                {
+                    _spriteRenderer.color = activeColor;
+                    _isActive = true;
+                }
+                else if (Input.GetTouch(i).phase == TouchPhase.Ended)
+                {
+                    _spriteRenderer.color = inactiveColor;
+                    _isActive = false;
+                }
+            }
         }
     }
 
@@ -59,6 +91,22 @@ public class NoteTargetController : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
+
+    private void OnMouseDown()
+    {
+        _spriteRenderer.color = activeColor;
+        _isActive = true;
+    }
+
+    private void OnMouseUpAsButton()
+    {
+        _spriteRenderer.color = inactiveColor;
+        _isActive = false;
+    }
     
-    
+    private void OnMouseUp()
+    {
+        _spriteRenderer.color = inactiveColor;
+        _isActive = false;
+    }
 }
