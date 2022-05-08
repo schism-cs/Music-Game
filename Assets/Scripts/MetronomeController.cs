@@ -15,10 +15,14 @@ public class MetronomeController : MonoBehaviour
     public GameObject noteContainer;
     public GameObject notePrefab;
     public GameObject[] noteSpawningPoints;
+
+    public bool isRecording;
     
     private float _frequency;
     private float _count;
     private float _lineSpeed;
+
+    public float LineSpeed => _lineSpeed;
 
     private void Start()
     {
@@ -35,15 +39,19 @@ public class MetronomeController : MonoBehaviour
         
         if (_count > _frequency)
         {
-            var index = (int) (Math.Truncate(Random.value * noteSpawningPoints.Length));
-            
-            var note = Instantiate(notePrefab, noteSpawningPoints[index].transform);
-            note.GetComponent<NoteController>().noteSpeed = _lineSpeed;
-            
             var line = Instantiate(timeLine, transform);
             line.GetComponent<TimeLineController>().speed = _lineSpeed;
             
-            StartCoroutine(PlaySoundWithDelay(_frequency));
+            if (!isRecording)
+            {
+                var index = (int) (Math.Truncate(Random.value * noteSpawningPoints.Length));
+            
+                var note = Instantiate(notePrefab, noteSpawningPoints[index].transform);
+                note.GetComponent<NoteController>().noteSpeed = _lineSpeed;    
+                
+                StartCoroutine(PlaySoundWithDelay(_frequency));
+            }
+            
             _count = 0f;
         }
     }
@@ -53,4 +61,5 @@ public class MetronomeController : MonoBehaviour
         yield return new WaitForSeconds(seconds);
         metronomeSound.Play();
     }
+    
 }

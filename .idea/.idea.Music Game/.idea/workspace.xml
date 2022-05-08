@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f24730-d61a-44d0-8176-5742d15f93c1" name="Default Changelist" comment="" />
+    <list default="true" id="70f24730-d61a-44d0-8176-5742d15f93c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MetronomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MetronomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NoteController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NoteController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NoteTargetController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NoteTargetController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/StartHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65CAB14A-C59E-4552-B77F-98A4AED18F9E/45/fdf9f49b/BoxCollider2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SongController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC2876E8-FF0B-42A2-A2A1-1B51F2B23C8A/51/13b7f1d8/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PointManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RecordedTrackController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -21,9 +53,12 @@
         <option value="$PROJECT_DIR$/Assets/TimeLineController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TimeLineController.cs" />
         <option value="$PROJECT_DIR$/Assets/PointManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NoteTargetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/RecordedTrackController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NoteController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SongController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteTargetController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MetronomeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/StartHandler.cs" />
       </list>
     </option>
   </component>
@@ -72,7 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651933755327</updated>
-      <workItem from="1651933763933" duration="10995000" />
+      <workItem from="1651933763933" duration="11597000" />
+      <workItem from="1652003745788" duration="4480000" />
     </task>
     <servers />
   </component>
@@ -81,7 +117,24 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2684" y="194" key="RiderGenerateDialog" timestamp="1652004225817">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2684" y="194" key="RiderGenerateDialog/0.0.1920.1040/-1080.-638.1080.1880/1920.0.1920.1040@1920.0.1920.1040" timestamp="1652004225817" />
   </component>
 </project>
