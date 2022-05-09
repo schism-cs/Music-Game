@@ -202,6 +202,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1981533
 Rigidbody2D:
   serializedVersion: 4
@@ -350,6 +352,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &5350099
 Rigidbody2D:
   serializedVersion: 4
@@ -498,6 +502,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &8841465
 Rigidbody2D:
   serializedVersion: 4
@@ -790,6 +796,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &10677356
 Rigidbody2D:
   serializedVersion: 4
@@ -938,6 +946,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &14962496
 Rigidbody2D:
   serializedVersion: 4
@@ -1086,6 +1096,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &23684057
 Rigidbody2D:
   serializedVersion: 4
@@ -1234,6 +1246,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &25770182
 Rigidbody2D:
   serializedVersion: 4
@@ -1382,6 +1396,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &27805591
 Rigidbody2D:
   serializedVersion: 4
@@ -1530,6 +1546,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &27965674
 Rigidbody2D:
   serializedVersion: 4
@@ -1678,6 +1696,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &28262951
 Rigidbody2D:
   serializedVersion: 4
@@ -1826,6 +1846,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &33015941
 Rigidbody2D:
   serializedVersion: 4
@@ -1974,6 +1996,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &33121152
 Rigidbody2D:
   serializedVersion: 4
@@ -2122,6 +2146,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &39937982
 Rigidbody2D:
   serializedVersion: 4
@@ -2270,6 +2296,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &47535909
 Rigidbody2D:
   serializedVersion: 4
@@ -2418,6 +2446,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &50233410
 Rigidbody2D:
   serializedVersion: 4
@@ -2566,6 +2596,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &61693017
 Rigidbody2D:
   serializedVersion: 4
@@ -2714,6 +2746,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &65001115
 Rigidbody2D:
   serializedVersion: 4
@@ -2862,6 +2896,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &71005954
 Rigidbody2D:
   serializedVersion: 4
@@ -3054,6 +3090,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &73517516
 Rigidbody2D:
   serializedVersion: 4
@@ -3202,6 +3240,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &75373903
 Rigidbody2D:
   serializedVersion: 4
@@ -3350,6 +3390,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &79385251
 Rigidbody2D:
   serializedVersion: 4
@@ -3498,6 +3540,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &87657013
 Rigidbody2D:
   serializedVersion: 4
@@ -3646,6 +3690,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &93056997
 Rigidbody2D:
   serializedVersion: 4
@@ -3793,7 +3839,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 109334025}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -3871,6 +3917,8 @@ MonoBehaviour:
   isRecording: 0
   metronome: {fileID: 1907434117}
   recordedTrack: {fileID: 1405524450}
+  goodPanel: {fileID: 1699052613}
+  fataPanel: {fileID: 503380502}
 --- !u!61 &109334030
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3946,6 +3994,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &109385900
 Rigidbody2D:
   serializedVersion: 4
@@ -4045,6 +4095,89 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &116456007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 116456009}
+  - component: {fileID: 116456008}
+  m_Layer: 0
+  m_Name: rainbow-pixel-background-57088517
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &116456008
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116456007}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: -55
+  m_Sprite: {fileID: 21300000, guid: 11c65dcf973cc894b8f1f0a37af70641, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.7647059}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 2
+  m_Size: {x: 2.86, y: 4.942556}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 1
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &116456009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116456007}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.7, y: -0.51, z: 0}
+  m_LocalScale: {x: 2.4143, y: 2.4143, z: 2.4143}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &120106725
 GameObject:
   m_ObjectHideFlags: 0
@@ -4094,6 +4227,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &120106728
 Rigidbody2D:
   serializedVersion: 4
@@ -4242,6 +4377,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &122874200
 Rigidbody2D:
   serializedVersion: 4
@@ -4390,6 +4527,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &126992572
 Rigidbody2D:
   serializedVersion: 4
@@ -4538,6 +4677,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &133904817
 Rigidbody2D:
   serializedVersion: 4
@@ -4686,6 +4827,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &136608126
 Rigidbody2D:
   serializedVersion: 4
@@ -4834,6 +4977,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &139906879
 Rigidbody2D:
   serializedVersion: 4
@@ -4982,6 +5127,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &140187401
 Rigidbody2D:
   serializedVersion: 4
@@ -5130,6 +5277,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &157501951
 Rigidbody2D:
   serializedVersion: 4
@@ -5278,6 +5427,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &161457670
 Rigidbody2D:
   serializedVersion: 4
@@ -5426,6 +5577,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &161803397
 Rigidbody2D:
   serializedVersion: 4
@@ -5574,6 +5727,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &164759303
 Rigidbody2D:
   serializedVersion: 4
@@ -5849,6 +6004,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &167437299
 Rigidbody2D:
   serializedVersion: 4
@@ -5997,6 +6154,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &167717145
 Rigidbody2D:
   serializedVersion: 4
@@ -6145,6 +6304,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &175510236
 Rigidbody2D:
   serializedVersion: 4
@@ -6293,6 +6454,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &178796118
 Rigidbody2D:
   serializedVersion: 4
@@ -6441,6 +6604,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &181105689
 Rigidbody2D:
   serializedVersion: 4
@@ -6589,6 +6754,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &182143649
 Rigidbody2D:
   serializedVersion: 4
@@ -6737,6 +6904,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &184102735
 Rigidbody2D:
   serializedVersion: 4
@@ -6885,6 +7054,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &184572149
 Rigidbody2D:
   serializedVersion: 4
@@ -7033,6 +7204,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &184980587
 Rigidbody2D:
   serializedVersion: 4
@@ -7181,6 +7354,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &190729659
 Rigidbody2D:
   serializedVersion: 4
@@ -7329,6 +7504,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &191141579
 Rigidbody2D:
   serializedVersion: 4
@@ -7477,6 +7654,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &191408710
 Rigidbody2D:
   serializedVersion: 4
@@ -7625,6 +7804,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &194264046
 Rigidbody2D:
   serializedVersion: 4
@@ -7773,6 +7954,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &197480827
 Rigidbody2D:
   serializedVersion: 4
@@ -7921,6 +8104,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &210375636
 Rigidbody2D:
   serializedVersion: 4
@@ -8069,6 +8254,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &216187475
 Rigidbody2D:
   serializedVersion: 4
@@ -8217,6 +8404,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &223609895
 Rigidbody2D:
   serializedVersion: 4
@@ -8375,7 +8564,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -55
   m_Sprite: {fileID: 21300000, guid: 5bb83cd134e9ba54fb138da6a4968bdc, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.23529412}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -8397,7 +8586,7 @@ Transform:
   m_LocalScale: {x: 0.45811313, y: 0.45811313, z: 0.45811313}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &236964959
 GameObject:
@@ -8448,6 +8637,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &236964962
 Rigidbody2D:
   serializedVersion: 4
@@ -8596,6 +8787,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &240047190
 Rigidbody2D:
   serializedVersion: 4
@@ -8744,6 +8937,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &242109572
 Rigidbody2D:
   serializedVersion: 4
@@ -8892,6 +9087,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &243341614
 Rigidbody2D:
   serializedVersion: 4
@@ -9040,6 +9237,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &244887420
 Rigidbody2D:
   serializedVersion: 4
@@ -9188,6 +9387,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &247888954
 Rigidbody2D:
   serializedVersion: 4
@@ -9336,6 +9537,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &247970635
 Rigidbody2D:
   serializedVersion: 4
@@ -9484,6 +9687,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &254656837
 Rigidbody2D:
   serializedVersion: 4
@@ -9632,6 +9837,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &255289724
 Rigidbody2D:
   serializedVersion: 4
@@ -9780,6 +9987,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &257768053
 Rigidbody2D:
   serializedVersion: 4
@@ -9936,7 +10145,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Test Song
+  m_text: Start
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9963,8 +10172,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 45.9
+  m_fontSizeBase: 45.9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -10062,6 +10271,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &261085680
 Rigidbody2D:
   serializedVersion: 4
@@ -10210,6 +10421,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &261738428
 Rigidbody2D:
   serializedVersion: 4
@@ -10358,6 +10571,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &263933230
 Rigidbody2D:
   serializedVersion: 4
@@ -10506,6 +10721,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &266879764
 Rigidbody2D:
   serializedVersion: 4
@@ -10654,6 +10871,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &271086690
 Rigidbody2D:
   serializedVersion: 4
@@ -10802,6 +11021,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &271595744
 Rigidbody2D:
   serializedVersion: 4
@@ -10950,6 +11171,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &272002306
 Rigidbody2D:
   serializedVersion: 4
@@ -11098,6 +11321,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &276100087
 Rigidbody2D:
   serializedVersion: 4
@@ -11246,6 +11471,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &277103718
 Rigidbody2D:
   serializedVersion: 4
@@ -11394,6 +11621,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &287750961
 Rigidbody2D:
   serializedVersion: 4
@@ -11542,6 +11771,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &288467982
 Rigidbody2D:
   serializedVersion: 4
@@ -11690,6 +11921,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &291119963
 Rigidbody2D:
   serializedVersion: 4
@@ -11838,6 +12071,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &296777942
 Rigidbody2D:
   serializedVersion: 4
@@ -11986,6 +12221,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &302661401
 Rigidbody2D:
   serializedVersion: 4
@@ -12134,6 +12371,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &309258937
 Rigidbody2D:
   serializedVersion: 4
@@ -12282,6 +12521,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &310612405
 Rigidbody2D:
   serializedVersion: 4
@@ -12430,6 +12671,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &315269389
 Rigidbody2D:
   serializedVersion: 4
@@ -12578,6 +12821,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &327822114
 Rigidbody2D:
   serializedVersion: 4
@@ -12726,6 +12971,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &329366958
 Rigidbody2D:
   serializedVersion: 4
@@ -12825,6 +13072,140 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &334176982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 334176983}
+  - component: {fileID: 334176985}
+  - component: {fileID: 334176984}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &334176983
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334176982}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 503380503}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.000030517578, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &334176984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334176982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Fata+
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 81
+  m_fontSizeBase: 81
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &334176985
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 334176982}
+  m_CullTransparentMesh: 1
 --- !u!1 &337877928
 GameObject:
   m_ObjectHideFlags: 0
@@ -12874,6 +13255,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &337877931
 Rigidbody2D:
   serializedVersion: 4
@@ -13022,6 +13405,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &340943758
 Rigidbody2D:
   serializedVersion: 4
@@ -13170,6 +13555,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &342230804
 Rigidbody2D:
   serializedVersion: 4
@@ -13318,6 +13705,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &345818648
 Rigidbody2D:
   serializedVersion: 4
@@ -13466,6 +13855,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &349105962
 Rigidbody2D:
   serializedVersion: 4
@@ -13614,6 +14005,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &354043469
 Rigidbody2D:
   serializedVersion: 4
@@ -13762,6 +14155,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &358991655
 Rigidbody2D:
   serializedVersion: 4
@@ -13910,6 +14305,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &360335021
 Rigidbody2D:
   serializedVersion: 4
@@ -14118,6 +14515,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &367267762
 Rigidbody2D:
   serializedVersion: 4
@@ -14266,6 +14665,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &372795928
 Rigidbody2D:
   serializedVersion: 4
@@ -14414,6 +14815,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &372868537
 Rigidbody2D:
   serializedVersion: 4
@@ -14562,6 +14965,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &374175393
 Rigidbody2D:
   serializedVersion: 4
@@ -14710,6 +15115,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &377826472
 Rigidbody2D:
   serializedVersion: 4
@@ -14858,6 +15265,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &381932776
 Rigidbody2D:
   serializedVersion: 4
@@ -15006,6 +15415,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &390331153
 Rigidbody2D:
   serializedVersion: 4
@@ -15154,6 +15565,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &393531779
 Rigidbody2D:
   serializedVersion: 4
@@ -15302,6 +15715,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &397589430
 Rigidbody2D:
   serializedVersion: 4
@@ -15450,6 +15865,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &406270729
 Rigidbody2D:
   serializedVersion: 4
@@ -15598,6 +16015,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &408468891
 Rigidbody2D:
   serializedVersion: 4
@@ -15746,6 +16165,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &410647529
 Rigidbody2D:
   serializedVersion: 4
@@ -15894,6 +16315,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &411014070
 Rigidbody2D:
   serializedVersion: 4
@@ -16042,6 +16465,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &413580774
 Rigidbody2D:
   serializedVersion: 4
@@ -16190,6 +16615,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &418748764
 Rigidbody2D:
   serializedVersion: 4
@@ -16338,6 +16765,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &419826535
 Rigidbody2D:
   serializedVersion: 4
@@ -16486,6 +16915,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &421128025
 Rigidbody2D:
   serializedVersion: 4
@@ -16634,6 +17065,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &423653371
 Rigidbody2D:
   serializedVersion: 4
@@ -16782,6 +17215,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &426906998
 Rigidbody2D:
   serializedVersion: 4
@@ -16930,6 +17365,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &430266921
 Rigidbody2D:
   serializedVersion: 4
@@ -17078,6 +17515,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &430380417
 Rigidbody2D:
   serializedVersion: 4
@@ -17226,6 +17665,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &434046307
 Rigidbody2D:
   serializedVersion: 4
@@ -17374,6 +17815,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &441238685
 Rigidbody2D:
   serializedVersion: 4
@@ -17522,6 +17965,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &444341986
 Rigidbody2D:
   serializedVersion: 4
@@ -17670,6 +18115,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &446838117
 Rigidbody2D:
   serializedVersion: 4
@@ -17818,6 +18265,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &448432856
 Rigidbody2D:
   serializedVersion: 4
@@ -17966,6 +18415,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &450071576
 Rigidbody2D:
   serializedVersion: 4
@@ -18114,6 +18565,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &458616932
 Rigidbody2D:
   serializedVersion: 4
@@ -18213,6 +18666,140 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &459260774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 459260775}
+  - component: {fileID: 459260777}
+  - component: {fileID: 459260776}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &459260775
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459260774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1539212642}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 213.84}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &459260776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459260774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Are you ready to begin?
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 43.94
+  m_fontSizeBase: 43.94
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &459260777
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459260774}
+  m_CullTransparentMesh: 1
 --- !u!1 &464003769
 GameObject:
   m_ObjectHideFlags: 0
@@ -18262,6 +18849,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &464003772
 Rigidbody2D:
   serializedVersion: 4
@@ -18410,6 +18999,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &471109952
 Rigidbody2D:
   serializedVersion: 4
@@ -18558,6 +19149,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &473065225
 Rigidbody2D:
   serializedVersion: 4
@@ -18706,6 +19299,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &473998375
 Rigidbody2D:
   serializedVersion: 4
@@ -18854,6 +19449,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &474598810
 Rigidbody2D:
   serializedVersion: 4
@@ -19002,6 +19599,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &477711429
 Rigidbody2D:
   serializedVersion: 4
@@ -19150,6 +19749,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &482965898
 Rigidbody2D:
   serializedVersion: 4
@@ -19298,6 +19899,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &483658868
 Rigidbody2D:
   serializedVersion: 4
@@ -19446,6 +20049,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &483705656
 Rigidbody2D:
   serializedVersion: 4
@@ -19594,6 +20199,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &483794964
 Rigidbody2D:
   serializedVersion: 4
@@ -19742,6 +20349,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &491041650
 Rigidbody2D:
   serializedVersion: 4
@@ -19890,6 +20499,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &494698635
 Rigidbody2D:
   serializedVersion: 4
@@ -20038,6 +20649,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &497273629
 Rigidbody2D:
   serializedVersion: 4
@@ -20186,6 +20799,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &498957503
 Rigidbody2D:
   serializedVersion: 4
@@ -20334,6 +20949,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &501154636
 Rigidbody2D:
   serializedVersion: 4
@@ -20433,6 +21050,82 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &503380502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 503380503}
+  - component: {fileID: 503380505}
+  - component: {fileID: 503380504}
+  m_Layer: 5
+  m_Name: FataPanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &503380503
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 503380502}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 334176983}
+  m_Father: {fileID: 535992073}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.080078125, y: -316.8}
+  m_SizeDelta: {x: -723.93976, y: 150}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &503380504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 503380502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &503380505
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 503380502}
+  m_CullTransparentMesh: 1
 --- !u!1 &504713805
 GameObject:
   m_ObjectHideFlags: 0
@@ -20482,6 +21175,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &504713808
 Rigidbody2D:
   serializedVersion: 4
@@ -20630,6 +21325,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &505267918
 Rigidbody2D:
   serializedVersion: 4
@@ -20778,6 +21475,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &509441948
 Rigidbody2D:
   serializedVersion: 4
@@ -20926,6 +21625,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &512915641
 Rigidbody2D:
   serializedVersion: 4
@@ -21074,6 +21775,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &513186248
 Rigidbody2D:
   serializedVersion: 4
@@ -21222,6 +21925,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &515190646
 Rigidbody2D:
   serializedVersion: 4
@@ -21483,6 +22188,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &523454906
 Rigidbody2D:
   serializedVersion: 4
@@ -21631,6 +22338,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &525262592
 Rigidbody2D:
   serializedVersion: 4
@@ -21779,6 +22488,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &530942972
 Rigidbody2D:
   serializedVersion: 4
@@ -21891,7 +22602,7 @@ GameObject:
   - component: {fileID: 535992071}
   - component: {fileID: 535992070}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: UICanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21970,8 +22681,11 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 587087380}
+  - {fileID: 1539212642}
+  - {fileID: 1699052614}
+  - {fileID: 503380503}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -22027,6 +22741,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &542959847
 Rigidbody2D:
   serializedVersion: 4
@@ -22175,6 +22891,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &544925745
 Rigidbody2D:
   serializedVersion: 4
@@ -22323,6 +23041,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &547809461
 Rigidbody2D:
   serializedVersion: 4
@@ -22471,6 +23191,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &548865818
 Rigidbody2D:
   serializedVersion: 4
@@ -22619,6 +23341,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &550843953
 Rigidbody2D:
   serializedVersion: 4
@@ -22767,6 +23491,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &553185604
 Rigidbody2D:
   serializedVersion: 4
@@ -22915,6 +23641,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &554541788
 Rigidbody2D:
   serializedVersion: 4
@@ -23063,6 +23791,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &556550488
 Rigidbody2D:
   serializedVersion: 4
@@ -23211,6 +23941,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &561018835
 Rigidbody2D:
   serializedVersion: 4
@@ -23359,6 +24091,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &562623458
 Rigidbody2D:
   serializedVersion: 4
@@ -23507,6 +24241,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &566861483
 Rigidbody2D:
   serializedVersion: 4
@@ -23655,6 +24391,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &568755633
 Rigidbody2D:
   serializedVersion: 4
@@ -23803,6 +24541,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &570184014
 Rigidbody2D:
   serializedVersion: 4
@@ -23951,6 +24691,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &574782530
 Rigidbody2D:
   serializedVersion: 4
@@ -24099,6 +24841,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &578586978
 Rigidbody2D:
   serializedVersion: 4
@@ -24247,6 +24991,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &578855225
 Rigidbody2D:
   serializedVersion: 4
@@ -24395,6 +25141,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &579075132
 Rigidbody2D:
   serializedVersion: 4
@@ -24506,7 +25254,7 @@ GameObject:
   - component: {fileID: 587087382}
   - component: {fileID: 587087381}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: PunteggioPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24523,17 +25271,15 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 886871916}
   - {fileID: 1816542511}
-  - {fileID: 875365269}
   m_Father: {fileID: 535992073}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 25.899902}
-  m_SizeDelta: {x: 0, y: 131.6}
-  m_Pivot: {x: 0.5, y: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 352.12, y: 131.6001}
+  m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &587087381
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24547,7 +25293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.6117647}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -24621,6 +25367,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &591689502
 Rigidbody2D:
   serializedVersion: 4
@@ -24769,6 +25517,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &595082476
 Rigidbody2D:
   serializedVersion: 4
@@ -24917,6 +25667,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &598723756
 Rigidbody2D:
   serializedVersion: 4
@@ -25065,6 +25817,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &603414573
 Rigidbody2D:
   serializedVersion: 4
@@ -25213,6 +25967,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &606553813
 Rigidbody2D:
   serializedVersion: 4
@@ -25361,6 +26117,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &614180519
 Rigidbody2D:
   serializedVersion: 4
@@ -25509,6 +26267,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &615170714
 Rigidbody2D:
   serializedVersion: 4
@@ -25657,6 +26417,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &617381440
 Rigidbody2D:
   serializedVersion: 4
@@ -25805,6 +26567,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &617512387
 Rigidbody2D:
   serializedVersion: 4
@@ -25959,6 +26723,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &619760764
 Rigidbody2D:
   serializedVersion: 4
@@ -26107,6 +26873,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &620455012
 Rigidbody2D:
   serializedVersion: 4
@@ -26255,6 +27023,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &624361374
 Rigidbody2D:
   serializedVersion: 4
@@ -26403,6 +27173,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &625965106
 Rigidbody2D:
   serializedVersion: 4
@@ -26551,6 +27323,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &632496289
 Rigidbody2D:
   serializedVersion: 4
@@ -26699,6 +27473,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &639037825
 Rigidbody2D:
   serializedVersion: 4
@@ -26847,6 +27623,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &645435454
 Rigidbody2D:
   serializedVersion: 4
@@ -26995,6 +27773,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &648407941
 Rigidbody2D:
   serializedVersion: 4
@@ -27143,6 +27923,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &654085846
 Rigidbody2D:
   serializedVersion: 4
@@ -27291,6 +28073,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &656215627
 Rigidbody2D:
   serializedVersion: 4
@@ -27439,6 +28223,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &657558488
 Rigidbody2D:
   serializedVersion: 4
@@ -27587,6 +28373,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &670225677
 Rigidbody2D:
   serializedVersion: 4
@@ -27735,6 +28523,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &671073025
 Rigidbody2D:
   serializedVersion: 4
@@ -27883,6 +28673,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &671414491
 Rigidbody2D:
   serializedVersion: 4
@@ -28031,6 +28823,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &690522331
 Rigidbody2D:
   serializedVersion: 4
@@ -28179,6 +28973,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &697712184
 Rigidbody2D:
   serializedVersion: 4
@@ -28357,6 +29153,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &704348557
 Rigidbody2D:
   serializedVersion: 4
@@ -28505,6 +29303,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &707864274
 Rigidbody2D:
   serializedVersion: 4
@@ -28653,6 +29453,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &709129114
 Rigidbody2D:
   serializedVersion: 4
@@ -28801,6 +29603,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &710362640
 Rigidbody2D:
   serializedVersion: 4
@@ -28949,6 +29753,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &718604030
 Rigidbody2D:
   serializedVersion: 4
@@ -29097,6 +29903,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &725067958
 Rigidbody2D:
   serializedVersion: 4
@@ -29245,6 +30053,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &725507182
 Rigidbody2D:
   serializedVersion: 4
@@ -29393,6 +30203,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &729215956
 Rigidbody2D:
   serializedVersion: 4
@@ -29541,6 +30353,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &729258293
 Rigidbody2D:
   serializedVersion: 4
@@ -29689,6 +30503,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &729802519
 Rigidbody2D:
   serializedVersion: 4
@@ -29837,6 +30653,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &735310025
 Rigidbody2D:
   serializedVersion: 4
@@ -29985,6 +30803,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &737650150
 Rigidbody2D:
   serializedVersion: 4
@@ -30133,6 +30953,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &738012156
 Rigidbody2D:
   serializedVersion: 4
@@ -30281,6 +31103,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &750598561
 Rigidbody2D:
   serializedVersion: 4
@@ -30429,6 +31253,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &755051602
 Rigidbody2D:
   serializedVersion: 4
@@ -30577,6 +31403,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &764847527
 Rigidbody2D:
   serializedVersion: 4
@@ -30725,6 +31553,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &764934539
 Rigidbody2D:
   serializedVersion: 4
@@ -30873,6 +31703,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &765995433
 Rigidbody2D:
   serializedVersion: 4
@@ -31021,6 +31853,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &772590471
 Rigidbody2D:
   serializedVersion: 4
@@ -31169,6 +32003,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &773203922
 Rigidbody2D:
   serializedVersion: 4
@@ -31317,6 +32153,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &775480804
 Rigidbody2D:
   serializedVersion: 4
@@ -31465,6 +32303,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &779340709
 Rigidbody2D:
   serializedVersion: 4
@@ -31613,6 +32453,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &780765102
 Rigidbody2D:
   serializedVersion: 4
@@ -31761,6 +32603,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &793222864
 Rigidbody2D:
   serializedVersion: 4
@@ -31909,6 +32753,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &793312822
 Rigidbody2D:
   serializedVersion: 4
@@ -32057,6 +32903,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &795284380
 Rigidbody2D:
   serializedVersion: 4
@@ -32205,6 +33053,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &796425373
 Rigidbody2D:
   serializedVersion: 4
@@ -32353,6 +33203,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &801107671
 Rigidbody2D:
   serializedVersion: 4
@@ -32501,6 +33353,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &804225157
 Rigidbody2D:
   serializedVersion: 4
@@ -32649,6 +33503,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &804541688
 Rigidbody2D:
   serializedVersion: 4
@@ -32797,6 +33653,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &807335450
 Rigidbody2D:
   serializedVersion: 4
@@ -32911,7 +33769,7 @@ PrefabInstance:
     - target: {fileID: 7436098384484030806, guid: 2d7f950f859b7d048ae0c77a1f0df91a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7436098384484030806, guid: 2d7f950f859b7d048ae0c77a1f0df91a,
         type: 3}
@@ -33174,6 +34032,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &812902412
 Rigidbody2D:
   serializedVersion: 4
@@ -33322,6 +34182,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &813485718
 Rigidbody2D:
   serializedVersion: 4
@@ -33470,6 +34332,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &815580095
 Rigidbody2D:
   serializedVersion: 4
@@ -33618,6 +34482,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &824624803
 Rigidbody2D:
   serializedVersion: 4
@@ -33766,6 +34632,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &827613067
 Rigidbody2D:
   serializedVersion: 4
@@ -33914,6 +34782,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &828074721
 Rigidbody2D:
   serializedVersion: 4
@@ -34062,6 +34932,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &833041947
 Rigidbody2D:
   serializedVersion: 4
@@ -34210,6 +35082,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &838160509
 Rigidbody2D:
   serializedVersion: 4
@@ -34358,6 +35232,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &845825729
 Rigidbody2D:
   serializedVersion: 4
@@ -34506,6 +35382,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &849473256
 Rigidbody2D:
   serializedVersion: 4
@@ -34605,6 +35483,140 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &850929147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 850929148}
+  - component: {fileID: 850929150}
+  - component: {fileID: 850929149}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &850929148
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850929147}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1699052614}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.000030517578, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &850929149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850929147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Good!
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 50.5
+  m_fontSizeBase: 50.5
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &850929150
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850929147}
+  m_CullTransparentMesh: 1
 --- !u!1 &854244466
 GameObject:
   m_ObjectHideFlags: 0
@@ -34654,6 +35666,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &854244469
 Rigidbody2D:
   serializedVersion: 4
@@ -34802,6 +35816,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &870465702
 Rigidbody2D:
   serializedVersion: 4
@@ -34927,19 +35943,19 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 875365268}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 259563990}
-  m_Father: {fileID: 587087380}
-  m_RootOrder: 2
+  m_Father: {fileID: 1539212642}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 142.18}
-  m_SizeDelta: {x: 0, y: 80.69}
-  m_Pivot: {x: 0.5, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -68.6}
+  m_SizeDelta: {x: 215.6, y: 101.7}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &875365270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34988,6 +36004,18 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: SongController, Assembly-CSharp
         m_MethodName: StartSong
         m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1539212641}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -35083,6 +36111,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &878985926
 Rigidbody2D:
   serializedVersion: 4
@@ -35231,6 +36261,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &884233072
 Rigidbody2D:
   serializedVersion: 4
@@ -35330,140 +36362,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &886871915
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 886871916}
-  - component: {fileID: 886871918}
-  - component: {fileID: 886871917}
-  m_Layer: 5
-  m_Name: Text (TMP)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &886871916
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 886871915}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 587087380}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.5}
-  m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 688.95, y: 132}
-  m_Pivot: {x: 0, y: 0.5}
---- !u!114 &886871917
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 886871915}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 'Punteggione:'
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 65.5
-  m_fontSizeBase: 65.5
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 1
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &886871918
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 886871915}
-  m_CullTransparentMesh: 0
 --- !u!1 &897083088
 GameObject:
   m_ObjectHideFlags: 0
@@ -35513,6 +36411,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &897083091
 Rigidbody2D:
   serializedVersion: 4
@@ -35661,6 +36561,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &904446314
 Rigidbody2D:
   serializedVersion: 4
@@ -35809,6 +36711,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &907134606
 Rigidbody2D:
   serializedVersion: 4
@@ -35957,6 +36861,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &909960943
 Rigidbody2D:
   serializedVersion: 4
@@ -36105,6 +37011,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &917842117
 Rigidbody2D:
   serializedVersion: 4
@@ -36253,6 +37161,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &918559765
 Rigidbody2D:
   serializedVersion: 4
@@ -36401,6 +37311,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &921663378
 Rigidbody2D:
   serializedVersion: 4
@@ -36549,6 +37461,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &923932313
 Rigidbody2D:
   serializedVersion: 4
@@ -36697,6 +37611,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &928863024
 Rigidbody2D:
   serializedVersion: 4
@@ -36845,6 +37761,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &934881170
 Rigidbody2D:
   serializedVersion: 4
@@ -36993,6 +37911,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &939459238
 Rigidbody2D:
   serializedVersion: 4
@@ -37141,6 +38061,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &947285006
 Rigidbody2D:
   serializedVersion: 4
@@ -37289,6 +38211,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &948011290
 Rigidbody2D:
   serializedVersion: 4
@@ -37437,6 +38361,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &957610837
 Rigidbody2D:
   serializedVersion: 4
@@ -37585,6 +38511,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &959201916
 Rigidbody2D:
   serializedVersion: 4
@@ -37733,6 +38661,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &963898839
 Rigidbody2D:
   serializedVersion: 4
@@ -37881,6 +38811,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &965456733
 Rigidbody2D:
   serializedVersion: 4
@@ -38059,6 +38991,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &987620269
 Rigidbody2D:
   serializedVersion: 4
@@ -38207,6 +39141,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &991465520
 Rigidbody2D:
   serializedVersion: 4
@@ -38355,6 +39291,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &994112320
 Rigidbody2D:
   serializedVersion: 4
@@ -38503,6 +39441,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &995953503
 Rigidbody2D:
   serializedVersion: 4
@@ -38651,6 +39591,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1001221507
 Rigidbody2D:
   serializedVersion: 4
@@ -38799,6 +39741,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1003614198
 Rigidbody2D:
   serializedVersion: 4
@@ -38947,6 +39891,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1011062717
 Rigidbody2D:
   serializedVersion: 4
@@ -39095,6 +40041,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1013345209
 Rigidbody2D:
   serializedVersion: 4
@@ -39243,6 +40191,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1017784424
 Rigidbody2D:
   serializedVersion: 4
@@ -39391,6 +40341,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1032657286
 Rigidbody2D:
   serializedVersion: 4
@@ -39539,6 +40491,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1032767039
 Rigidbody2D:
   serializedVersion: 4
@@ -39687,6 +40641,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1035531745
 Rigidbody2D:
   serializedVersion: 4
@@ -39835,6 +40791,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1038782065
 Rigidbody2D:
   serializedVersion: 4
@@ -39983,6 +40941,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1039898099
 Rigidbody2D:
   serializedVersion: 4
@@ -40131,6 +41091,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1043384536
 Rigidbody2D:
   serializedVersion: 4
@@ -40279,6 +41241,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1043962823
 Rigidbody2D:
   serializedVersion: 4
@@ -40427,6 +41391,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1048417116
 Rigidbody2D:
   serializedVersion: 4
@@ -40575,6 +41541,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1057862854
 Rigidbody2D:
   serializedVersion: 4
@@ -40723,6 +41691,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1059722514
 Rigidbody2D:
   serializedVersion: 4
@@ -40871,6 +41841,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1061988501
 Rigidbody2D:
   serializedVersion: 4
@@ -41019,6 +41991,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1064359053
 Rigidbody2D:
   serializedVersion: 4
@@ -41167,6 +42141,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1077411366
 Rigidbody2D:
   serializedVersion: 4
@@ -41315,6 +42291,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1080001940
 Rigidbody2D:
   serializedVersion: 4
@@ -41463,6 +42441,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1082833980
 Rigidbody2D:
   serializedVersion: 4
@@ -41611,6 +42591,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1085759144
 Rigidbody2D:
   serializedVersion: 4
@@ -41759,6 +42741,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1092148077
 Rigidbody2D:
   serializedVersion: 4
@@ -41907,6 +42891,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1093002698
 Rigidbody2D:
   serializedVersion: 4
@@ -42055,6 +43041,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1093901798
 Rigidbody2D:
   serializedVersion: 4
@@ -42203,6 +43191,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1095766476
 Rigidbody2D:
   serializedVersion: 4
@@ -42351,6 +43341,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1100939046
 Rigidbody2D:
   serializedVersion: 4
@@ -42499,6 +43491,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1106994092
 Rigidbody2D:
   serializedVersion: 4
@@ -42637,6 +43631,8 @@ MonoBehaviour:
   isRecording: 0
   metronome: {fileID: 1907434117}
   recordedTrack: {fileID: 1405524450}
+  goodPanel: {fileID: 1699052613}
+  fataPanel: {fileID: 503380502}
 --- !u!61 &1110270517
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -42691,7 +43687,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1110270515}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -42799,6 +43795,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1111391788
 Rigidbody2D:
   serializedVersion: 4
@@ -42947,6 +43945,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1113866852
 Rigidbody2D:
   serializedVersion: 4
@@ -43110,7 +44110,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1116020914
 GameObject:
@@ -43161,6 +44161,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1116020917
 Rigidbody2D:
   serializedVersion: 4
@@ -43309,6 +44311,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1119611230
 Rigidbody2D:
   serializedVersion: 4
@@ -43457,6 +44461,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1123735141
 Rigidbody2D:
   serializedVersion: 4
@@ -43556,6 +44562,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1127241438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1127241439}
+  - component: {fileID: 1127241440}
+  m_Layer: 0
+  m_Name: 9-Sliced
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1127241439
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1127241438}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.83, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1530225493}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1127241440
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1127241438}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -5177388603050735206, guid: 8884154dfe85442a3a3578be807dbcdf,
+    type: 3}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.35686275}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 2
+  m_Size: {x: 5, y: 1.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1128644361
 GameObject:
   m_ObjectHideFlags: 0
@@ -43605,6 +44695,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1128644364
 Rigidbody2D:
   serializedVersion: 4
@@ -43753,6 +44845,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1136771145
 Rigidbody2D:
   serializedVersion: 4
@@ -43901,6 +44995,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1137224886
 Rigidbody2D:
   serializedVersion: 4
@@ -44049,6 +45145,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1137924366
 Rigidbody2D:
   serializedVersion: 4
@@ -44197,6 +45295,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1139194843
 Rigidbody2D:
   serializedVersion: 4
@@ -44345,6 +45445,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1150105370
 Rigidbody2D:
   serializedVersion: 4
@@ -44493,6 +45595,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1155253731
 Rigidbody2D:
   serializedVersion: 4
@@ -44641,6 +45745,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1155412918
 Rigidbody2D:
   serializedVersion: 4
@@ -44789,6 +45895,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1155452643
 Rigidbody2D:
   serializedVersion: 4
@@ -44937,6 +46045,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1168640970
 Rigidbody2D:
   serializedVersion: 4
@@ -45085,6 +46195,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1173297802
 Rigidbody2D:
   serializedVersion: 4
@@ -45233,6 +46345,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1178409200
 Rigidbody2D:
   serializedVersion: 4
@@ -45415,6 +46529,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1201555826
 Rigidbody2D:
   serializedVersion: 4
@@ -45563,6 +46679,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1207843275
 Rigidbody2D:
   serializedVersion: 4
@@ -45711,6 +46829,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1208408373
 Rigidbody2D:
   serializedVersion: 4
@@ -45859,6 +46979,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1212925886
 Rigidbody2D:
   serializedVersion: 4
@@ -46007,6 +47129,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1217791688
 Rigidbody2D:
   serializedVersion: 4
@@ -46155,6 +47279,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1229578451
 Rigidbody2D:
   serializedVersion: 4
@@ -46303,6 +47429,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1230401228
 Rigidbody2D:
   serializedVersion: 4
@@ -46451,6 +47579,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1239581356
 Rigidbody2D:
   serializedVersion: 4
@@ -46660,6 +47790,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1244748820
 Rigidbody2D:
   serializedVersion: 4
@@ -46808,6 +47940,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1247665155
 Rigidbody2D:
   serializedVersion: 4
@@ -46956,6 +48090,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1249743598
 Rigidbody2D:
   serializedVersion: 4
@@ -47104,6 +48240,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1253383919
 Rigidbody2D:
   serializedVersion: 4
@@ -47252,6 +48390,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1261730408
 Rigidbody2D:
   serializedVersion: 4
@@ -47400,6 +48540,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1261731229
 Rigidbody2D:
   serializedVersion: 4
@@ -47548,6 +48690,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1272730635
 Rigidbody2D:
   serializedVersion: 4
@@ -47696,6 +48840,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1274443212
 Rigidbody2D:
   serializedVersion: 4
@@ -47844,6 +48990,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1275656320
 Rigidbody2D:
   serializedVersion: 4
@@ -47992,6 +49140,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1276638640
 Rigidbody2D:
   serializedVersion: 4
@@ -48140,6 +49290,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1279821425
 Rigidbody2D:
   serializedVersion: 4
@@ -48288,6 +49440,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1280001437
 Rigidbody2D:
   serializedVersion: 4
@@ -48436,6 +49590,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1286695645
 Rigidbody2D:
   serializedVersion: 4
@@ -48584,6 +49740,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1288131628
 Rigidbody2D:
   serializedVersion: 4
@@ -48732,6 +49890,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1291801891
 Rigidbody2D:
   serializedVersion: 4
@@ -48880,6 +50040,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1295111395
 Rigidbody2D:
   serializedVersion: 4
@@ -49028,6 +50190,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1295328600
 Rigidbody2D:
   serializedVersion: 4
@@ -49176,6 +50340,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1306764015
 Rigidbody2D:
   serializedVersion: 4
@@ -49324,6 +50490,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1308729705
 Rigidbody2D:
   serializedVersion: 4
@@ -49472,6 +50640,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1309183600
 Rigidbody2D:
   serializedVersion: 4
@@ -49620,6 +50790,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1311405740
 Rigidbody2D:
   serializedVersion: 4
@@ -49768,6 +50940,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1318085491
 Rigidbody2D:
   serializedVersion: 4
@@ -49916,6 +51090,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1318119548
 Rigidbody2D:
   serializedVersion: 4
@@ -50064,6 +51240,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1321941107
 Rigidbody2D:
   serializedVersion: 4
@@ -50212,6 +51390,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1322239178
 Rigidbody2D:
   serializedVersion: 4
@@ -50360,6 +51540,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1324147601
 Rigidbody2D:
   serializedVersion: 4
@@ -50508,6 +51690,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1328251236
 Rigidbody2D:
   serializedVersion: 4
@@ -50656,6 +51840,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1336846313
 Rigidbody2D:
   serializedVersion: 4
@@ -50804,6 +51990,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1337129214
 Rigidbody2D:
   serializedVersion: 4
@@ -50952,6 +52140,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1338065926
 Rigidbody2D:
   serializedVersion: 4
@@ -51100,6 +52290,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1343339887
 Rigidbody2D:
   serializedVersion: 4
@@ -51248,6 +52440,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1346223990
 Rigidbody2D:
   serializedVersion: 4
@@ -51396,6 +52590,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1348523261
 Rigidbody2D:
   serializedVersion: 4
@@ -51544,6 +52740,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1348529295
 Rigidbody2D:
   serializedVersion: 4
@@ -51692,6 +52890,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1349574088
 Rigidbody2D:
   serializedVersion: 4
@@ -51840,6 +53040,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1350724194
 Rigidbody2D:
   serializedVersion: 4
@@ -51978,6 +53180,8 @@ MonoBehaviour:
   isRecording: 0
   metronome: {fileID: 1907434117}
   recordedTrack: {fileID: 1405524450}
+  goodPanel: {fileID: 1699052613}
+  fataPanel: {fileID: 503380502}
 --- !u!61 &1362018996
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -52032,7 +53236,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362018994}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -52140,6 +53344,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1366475165
 Rigidbody2D:
   serializedVersion: 4
@@ -52288,6 +53494,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1375072225
 Rigidbody2D:
   serializedVersion: 4
@@ -52436,6 +53644,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1381637902
 Rigidbody2D:
   serializedVersion: 4
@@ -52584,6 +53794,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1382689417
 Rigidbody2D:
   serializedVersion: 4
@@ -52732,6 +53944,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1383941797
 Rigidbody2D:
   serializedVersion: 4
@@ -52880,6 +54094,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1388520408
 Rigidbody2D:
   serializedVersion: 4
@@ -53028,6 +54244,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1390398418
 Rigidbody2D:
   serializedVersion: 4
@@ -53176,6 +54394,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1391013694
 Rigidbody2D:
   serializedVersion: 4
@@ -53324,6 +54544,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1396418082
 Rigidbody2D:
   serializedVersion: 4
@@ -53472,6 +54694,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1400857719
 Rigidbody2D:
   serializedVersion: 4
@@ -53653,6 +54877,8 @@ MonoBehaviour:
   isRecording: 0
   metronome: {fileID: 1907434117}
   recordedTrack: {fileID: 1405524450}
+  goodPanel: {fileID: 1699052613}
+  fataPanel: {fileID: 503380502}
 --- !u!61 &1406752307
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -53707,7 +54933,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1406752305}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -53815,6 +55041,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1418559511
 Rigidbody2D:
   serializedVersion: 4
@@ -53963,6 +55191,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1418676543
 Rigidbody2D:
   serializedVersion: 4
@@ -54111,6 +55341,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1420675232
 Rigidbody2D:
   serializedVersion: 4
@@ -54259,6 +55491,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1425526476
 Rigidbody2D:
   serializedVersion: 4
@@ -54407,6 +55641,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1425910018
 Rigidbody2D:
   serializedVersion: 4
@@ -54555,6 +55791,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1425961572
 Rigidbody2D:
   serializedVersion: 4
@@ -54703,6 +55941,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1430673506
 Rigidbody2D:
   serializedVersion: 4
@@ -54851,6 +56091,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1430699494
 Rigidbody2D:
   serializedVersion: 4
@@ -54999,6 +56241,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1430749872
 Rigidbody2D:
   serializedVersion: 4
@@ -55147,6 +56391,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1431416508
 Rigidbody2D:
   serializedVersion: 4
@@ -55295,6 +56541,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1436126031
 Rigidbody2D:
   serializedVersion: 4
@@ -55443,6 +56691,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1442138572
 Rigidbody2D:
   serializedVersion: 4
@@ -55591,6 +56841,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1451433898
 Rigidbody2D:
   serializedVersion: 4
@@ -55739,6 +56991,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1457497272
 Rigidbody2D:
   serializedVersion: 4
@@ -55887,6 +57141,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1458240702
 Rigidbody2D:
   serializedVersion: 4
@@ -56035,6 +57291,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1472877350
 Rigidbody2D:
   serializedVersion: 4
@@ -56183,6 +57441,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1474343505
 Rigidbody2D:
   serializedVersion: 4
@@ -56331,6 +57591,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1477506889
 Rigidbody2D:
   serializedVersion: 4
@@ -56479,6 +57741,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1484600852
 Rigidbody2D:
   serializedVersion: 4
@@ -56627,6 +57891,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1490047422
 Rigidbody2D:
   serializedVersion: 4
@@ -56775,6 +58041,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1494127777
 Rigidbody2D:
   serializedVersion: 4
@@ -56923,6 +58191,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1504866633
 Rigidbody2D:
   serializedVersion: 4
@@ -57071,6 +58341,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1509021942
 Rigidbody2D:
   serializedVersion: 4
@@ -57219,6 +58491,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1511712261
 Rigidbody2D:
   serializedVersion: 4
@@ -57367,6 +58641,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1514152513
 Rigidbody2D:
   serializedVersion: 4
@@ -57515,6 +58791,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1514636838
 Rigidbody2D:
   serializedVersion: 4
@@ -57663,6 +58941,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1514993918
 Rigidbody2D:
   serializedVersion: 4
@@ -57811,6 +59091,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1518122113
 Rigidbody2D:
   serializedVersion: 4
@@ -57959,6 +59241,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1518524957
 Rigidbody2D:
   serializedVersion: 4
@@ -58107,6 +59391,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1518571586
 Rigidbody2D:
   serializedVersion: 4
@@ -58255,6 +59541,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1525325343
 Rigidbody2D:
   serializedVersion: 4
@@ -58385,6 +59673,7 @@ Transform:
   - {fileID: 1362018999}
   - {fileID: 1406752310}
   - {fileID: 1110270520}
+  - {fileID: 1127241439}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -58437,6 +59726,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1535651635
 Rigidbody2D:
   serializedVersion: 4
@@ -58585,6 +59876,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1536306323
 Rigidbody2D:
   serializedVersion: 4
@@ -58733,6 +60026,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1538518525
 Rigidbody2D:
   serializedVersion: 4
@@ -58832,6 +60127,83 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1539212641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1539212642}
+  - component: {fileID: 1539212644}
+  - component: {fileID: 1539212643}
+  m_Layer: 5
+  m_Name: StartGamePanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1539212642
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539212641}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 875365269}
+  - {fileID: 459260775}
+  m_Father: {fileID: 535992073}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 584.3, y: 354.3}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1539212643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539212641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.5686275}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1539212644
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539212641}
+  m_CullTransparentMesh: 1
 --- !u!1 &1542680704
 GameObject:
   m_ObjectHideFlags: 0
@@ -58881,6 +60253,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1542680707
 Rigidbody2D:
   serializedVersion: 4
@@ -59029,6 +60403,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1543961603
 Rigidbody2D:
   serializedVersion: 4
@@ -59177,6 +60553,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1545783407
 Rigidbody2D:
   serializedVersion: 4
@@ -59325,6 +60703,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1548480080
 Rigidbody2D:
   serializedVersion: 4
@@ -59473,6 +60853,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1553639856
 Rigidbody2D:
   serializedVersion: 4
@@ -59621,6 +61003,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1556795043
 Rigidbody2D:
   serializedVersion: 4
@@ -59769,6 +61153,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1557156422
 Rigidbody2D:
   serializedVersion: 4
@@ -59917,6 +61303,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1558132761
 Rigidbody2D:
   serializedVersion: 4
@@ -60065,6 +61453,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1560914999
 Rigidbody2D:
   serializedVersion: 4
@@ -60213,6 +61603,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1564826789
 Rigidbody2D:
   serializedVersion: 4
@@ -60361,6 +61753,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1567961027
 Rigidbody2D:
   serializedVersion: 4
@@ -60509,6 +61903,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1568082618
 Rigidbody2D:
   serializedVersion: 4
@@ -60657,6 +62053,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1573594541
 Rigidbody2D:
   serializedVersion: 4
@@ -60805,6 +62203,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1574490938
 Rigidbody2D:
   serializedVersion: 4
@@ -60953,6 +62353,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1575257881
 Rigidbody2D:
   serializedVersion: 4
@@ -61101,6 +62503,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1585302877
 Rigidbody2D:
   serializedVersion: 4
@@ -61249,6 +62653,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1586924556
 Rigidbody2D:
   serializedVersion: 4
@@ -61397,6 +62803,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1597738385
 Rigidbody2D:
   serializedVersion: 4
@@ -61545,6 +62953,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1600698079
 Rigidbody2D:
   serializedVersion: 4
@@ -61693,6 +63103,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1602734053
 Rigidbody2D:
   serializedVersion: 4
@@ -61841,6 +63253,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1603654762
 Rigidbody2D:
   serializedVersion: 4
@@ -61989,6 +63403,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1605164835
 Rigidbody2D:
   serializedVersion: 4
@@ -62137,6 +63553,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1606542440
 Rigidbody2D:
   serializedVersion: 4
@@ -62285,6 +63703,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1607172086
 Rigidbody2D:
   serializedVersion: 4
@@ -62433,6 +63853,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1607752399
 Rigidbody2D:
   serializedVersion: 4
@@ -62581,6 +64003,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1613246310
 Rigidbody2D:
   serializedVersion: 4
@@ -62729,6 +64153,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1615424585
 Rigidbody2D:
   serializedVersion: 4
@@ -62877,6 +64303,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1619557960
 Rigidbody2D:
   serializedVersion: 4
@@ -63025,6 +64453,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1620026153
 Rigidbody2D:
   serializedVersion: 4
@@ -63173,6 +64603,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1621950412
 Rigidbody2D:
   serializedVersion: 4
@@ -63321,6 +64753,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1623318974
 Rigidbody2D:
   serializedVersion: 4
@@ -63469,6 +64903,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1627238170
 Rigidbody2D:
   serializedVersion: 4
@@ -63617,6 +65053,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1628832996
 Rigidbody2D:
   serializedVersion: 4
@@ -63765,6 +65203,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1629065884
 Rigidbody2D:
   serializedVersion: 4
@@ -63913,6 +65353,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1630574219
 Rigidbody2D:
   serializedVersion: 4
@@ -64061,6 +65503,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1640307437
 Rigidbody2D:
   serializedVersion: 4
@@ -64209,6 +65653,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1641444472
 Rigidbody2D:
   serializedVersion: 4
@@ -64357,6 +65803,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1645088923
 Rigidbody2D:
   serializedVersion: 4
@@ -64505,6 +65953,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1647838577
 Rigidbody2D:
   serializedVersion: 4
@@ -64653,6 +66103,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1648004256
 Rigidbody2D:
   serializedVersion: 4
@@ -64801,6 +66253,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1650211694
 Rigidbody2D:
   serializedVersion: 4
@@ -64949,6 +66403,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1655295628
 Rigidbody2D:
   serializedVersion: 4
@@ -65097,6 +66553,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1662164199
 Rigidbody2D:
   serializedVersion: 4
@@ -65245,6 +66703,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1664035051
 Rigidbody2D:
   serializedVersion: 4
@@ -65393,6 +66853,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1666450962
 Rigidbody2D:
   serializedVersion: 4
@@ -65541,6 +67003,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1670715696
 Rigidbody2D:
   serializedVersion: 4
@@ -65689,6 +67153,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1670744056
 Rigidbody2D:
   serializedVersion: 4
@@ -65837,6 +67303,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1675704438
 Rigidbody2D:
   serializedVersion: 4
@@ -65985,6 +67453,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1682952563
 Rigidbody2D:
   serializedVersion: 4
@@ -66308,6 +67778,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1689430213
 Rigidbody2D:
   serializedVersion: 4
@@ -66456,6 +67928,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1689806482
 Rigidbody2D:
   serializedVersion: 4
@@ -66604,6 +68078,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1694459078
 Rigidbody2D:
   serializedVersion: 4
@@ -66703,6 +68179,82 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1699052613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1699052614}
+  - component: {fileID: 1699052616}
+  - component: {fileID: 1699052615}
+  m_Layer: 5
+  m_Name: GoodPanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1699052614
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699052613}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 850929148}
+  m_Father: {fileID: 535992073}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.080078125, y: -316.8}
+  m_SizeDelta: {x: -723.93976, y: 150}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &1699052615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699052613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1699052616
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699052613}
+  m_CullTransparentMesh: 1
 --- !u!1 &1703013031
 GameObject:
   m_ObjectHideFlags: 0
@@ -66752,6 +68304,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1703013034
 Rigidbody2D:
   serializedVersion: 4
@@ -66900,6 +68454,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1704850195
 Rigidbody2D:
   serializedVersion: 4
@@ -67048,6 +68604,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1711136085
 Rigidbody2D:
   serializedVersion: 4
@@ -67196,6 +68754,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1715708261
 Rigidbody2D:
   serializedVersion: 4
@@ -67344,6 +68904,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1716470832
 Rigidbody2D:
   serializedVersion: 4
@@ -67492,6 +69054,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1723295401
 Rigidbody2D:
   serializedVersion: 4
@@ -67640,6 +69204,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1723640529
 Rigidbody2D:
   serializedVersion: 4
@@ -67788,6 +69354,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1726843026
 Rigidbody2D:
   serializedVersion: 4
@@ -67936,6 +69504,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1732288057
 Rigidbody2D:
   serializedVersion: 4
@@ -68084,6 +69654,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1736088883
 Rigidbody2D:
   serializedVersion: 4
@@ -68232,6 +69804,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1737443385
 Rigidbody2D:
   serializedVersion: 4
@@ -68380,6 +69954,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1741360087
 Rigidbody2D:
   serializedVersion: 4
@@ -68528,6 +70104,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1741818707
 Rigidbody2D:
   serializedVersion: 4
@@ -68676,6 +70254,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1744355402
 Rigidbody2D:
   serializedVersion: 4
@@ -68824,6 +70404,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1745959664
 Rigidbody2D:
   serializedVersion: 4
@@ -69140,6 +70722,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1750352506
 Rigidbody2D:
   serializedVersion: 4
@@ -69288,6 +70872,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1753907774
 Rigidbody2D:
   serializedVersion: 4
@@ -69436,6 +71022,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1755033248
 Rigidbody2D:
   serializedVersion: 4
@@ -69584,6 +71172,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1758540670
 Rigidbody2D:
   serializedVersion: 4
@@ -69732,6 +71322,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1763574851
 Rigidbody2D:
   serializedVersion: 4
@@ -69880,6 +71472,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1765572358
 Rigidbody2D:
   serializedVersion: 4
@@ -70028,6 +71622,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1769658910
 Rigidbody2D:
   serializedVersion: 4
@@ -70176,6 +71772,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1780573222
 Rigidbody2D:
   serializedVersion: 4
@@ -70324,6 +71922,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1792025747
 Rigidbody2D:
   serializedVersion: 4
@@ -70472,6 +72072,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1800090909
 Rigidbody2D:
   serializedVersion: 4
@@ -70620,6 +72222,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1812315861
 Rigidbody2D:
   serializedVersion: 4
@@ -70768,6 +72372,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1815962109
 Rigidbody2D:
   serializedVersion: 4
@@ -70897,13 +72503,13 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 587087380}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -0.00012207031, y: 0}
-  m_SizeDelta: {x: 615.2, y: 132}
-  m_Pivot: {x: 1, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1816542512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70924,7 +72530,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 10000
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -71050,6 +72656,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1819177848
 Rigidbody2D:
   serializedVersion: 4
@@ -71198,6 +72806,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1835378203
 Rigidbody2D:
   serializedVersion: 4
@@ -71346,6 +72956,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1840563151
 Rigidbody2D:
   serializedVersion: 4
@@ -71494,6 +73106,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1842020598
 Rigidbody2D:
   serializedVersion: 4
@@ -71642,6 +73256,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1844994501
 Rigidbody2D:
   serializedVersion: 4
@@ -71790,6 +73406,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1850704946
 Rigidbody2D:
   serializedVersion: 4
@@ -71938,6 +73556,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1855199790
 Rigidbody2D:
   serializedVersion: 4
@@ -72086,6 +73706,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1857051537
 Rigidbody2D:
   serializedVersion: 4
@@ -72234,6 +73856,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1858683139
 Rigidbody2D:
   serializedVersion: 4
@@ -72382,6 +74006,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1860277653
 Rigidbody2D:
   serializedVersion: 4
@@ -72530,6 +74156,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1864592809
 Rigidbody2D:
   serializedVersion: 4
@@ -72678,6 +74306,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1886252943
 Rigidbody2D:
   serializedVersion: 4
@@ -72826,6 +74456,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1893337870
 Rigidbody2D:
   serializedVersion: 4
@@ -72974,6 +74606,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1896614979
 Rigidbody2D:
   serializedVersion: 4
@@ -73441,6 +75075,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1901600502
 Rigidbody2D:
   serializedVersion: 4
@@ -73646,6 +75282,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1907810147
 Rigidbody2D:
   serializedVersion: 4
@@ -73794,6 +75432,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1909517650
 Rigidbody2D:
   serializedVersion: 4
@@ -73942,6 +75582,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1913046371
 Rigidbody2D:
   serializedVersion: 4
@@ -74090,6 +75732,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1920382552
 Rigidbody2D:
   serializedVersion: 4
@@ -74238,6 +75882,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1922575693
 Rigidbody2D:
   serializedVersion: 4
@@ -74386,6 +76032,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1923779409
 Rigidbody2D:
   serializedVersion: 4
@@ -74534,6 +76182,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1932440306
 Rigidbody2D:
   serializedVersion: 4
@@ -74682,6 +76332,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1936858543
 Rigidbody2D:
   serializedVersion: 4
@@ -74830,6 +76482,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1938076864
 Rigidbody2D:
   serializedVersion: 4
@@ -74978,6 +76632,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1947529904
 Rigidbody2D:
   serializedVersion: 4
@@ -75126,6 +76782,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1950190047
 Rigidbody2D:
   serializedVersion: 4
@@ -75274,6 +76932,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1958224617
 Rigidbody2D:
   serializedVersion: 4
@@ -75422,6 +77082,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1959841862
 Rigidbody2D:
   serializedVersion: 4
@@ -75570,6 +77232,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1963229055
 Rigidbody2D:
   serializedVersion: 4
@@ -75718,6 +77382,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1969178432
 Rigidbody2D:
   serializedVersion: 4
@@ -75866,6 +77532,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1971506421
 Rigidbody2D:
   serializedVersion: 4
@@ -76014,6 +77682,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1973073287
 Rigidbody2D:
   serializedVersion: 4
@@ -76162,6 +77832,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1973902517
 Rigidbody2D:
   serializedVersion: 4
@@ -76310,6 +77982,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1981525381
 Rigidbody2D:
   serializedVersion: 4
@@ -76458,6 +78132,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1988633475
 Rigidbody2D:
   serializedVersion: 4
@@ -76606,6 +78282,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1991474153
 Rigidbody2D:
   serializedVersion: 4
@@ -76754,6 +78432,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1994077022
 Rigidbody2D:
   serializedVersion: 4
@@ -76902,6 +78582,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1998774737
 Rigidbody2D:
   serializedVersion: 4
@@ -77050,6 +78732,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1999327736
 Rigidbody2D:
   serializedVersion: 4
@@ -77198,6 +78882,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &1999418262
 Rigidbody2D:
   serializedVersion: 4
@@ -77346,6 +79032,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2003440508
 Rigidbody2D:
   serializedVersion: 4
@@ -77494,6 +79182,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2009858139
 Rigidbody2D:
   serializedVersion: 4
@@ -77642,6 +79332,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2016422640
 Rigidbody2D:
   serializedVersion: 4
@@ -77790,6 +79482,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2019873591
 Rigidbody2D:
   serializedVersion: 4
@@ -77938,6 +79632,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2027364242
 Rigidbody2D:
   serializedVersion: 4
@@ -78086,6 +79782,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2027697279
 Rigidbody2D:
   serializedVersion: 4
@@ -78234,6 +79932,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2027789864
 Rigidbody2D:
   serializedVersion: 4
@@ -78382,6 +80082,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2036872430
 Rigidbody2D:
   serializedVersion: 4
@@ -78530,6 +80232,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2039396422
 Rigidbody2D:
   serializedVersion: 4
@@ -78708,6 +80412,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2042467800
 Rigidbody2D:
   serializedVersion: 4
@@ -78856,6 +80562,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2044095906
 Rigidbody2D:
   serializedVersion: 4
@@ -79004,6 +80712,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2044545330
 Rigidbody2D:
   serializedVersion: 4
@@ -79152,6 +80862,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2046241141
 Rigidbody2D:
   serializedVersion: 4
@@ -79300,6 +81012,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2049794436
 Rigidbody2D:
   serializedVersion: 4
@@ -79448,6 +81162,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2050685164
 Rigidbody2D:
   serializedVersion: 4
@@ -79596,6 +81312,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2052694850
 Rigidbody2D:
   serializedVersion: 4
@@ -79744,6 +81462,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2066057130
 Rigidbody2D:
   serializedVersion: 4
@@ -79892,6 +81612,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2068162400
 Rigidbody2D:
   serializedVersion: 4
@@ -80040,6 +81762,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2068588051
 Rigidbody2D:
   serializedVersion: 4
@@ -80188,6 +81912,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2073367820
 Rigidbody2D:
   serializedVersion: 4
@@ -80336,6 +82062,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2083642868
 Rigidbody2D:
   serializedVersion: 4
@@ -80484,6 +82212,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2085881051
 Rigidbody2D:
   serializedVersion: 4
@@ -80632,6 +82362,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2101790730
 Rigidbody2D:
   serializedVersion: 4
@@ -80780,6 +82512,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2103169112
 Rigidbody2D:
   serializedVersion: 4
@@ -80928,6 +82662,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2103790133
 Rigidbody2D:
   serializedVersion: 4
@@ -81076,6 +82812,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2106892280
 Rigidbody2D:
   serializedVersion: 4
@@ -81224,6 +82962,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2109215284
 Rigidbody2D:
   serializedVersion: 4
@@ -81372,6 +83112,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2118599416
 Rigidbody2D:
   serializedVersion: 4
@@ -81520,6 +83262,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2123042777
 Rigidbody2D:
   serializedVersion: 4
@@ -81668,6 +83412,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2127454236
 Rigidbody2D:
   serializedVersion: 4
@@ -81816,6 +83562,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2131177474
 Rigidbody2D:
   serializedVersion: 4
@@ -81964,6 +83712,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0.25578672, g: 0.809, b: 0.4580367, a: 1}
+  inactiveColor: {r: 0.13791044, g: 0.44, b: 0.24955224, a: 1}
 --- !u!50 &2145583368
 Rigidbody2D:
   serializedVersion: 4
@@ -82112,6 +83862,8 @@ MonoBehaviour:
   noteSpeed: 7.5
   isRecording: 0
   isPlaying: 0
+  activeColor: {r: 0, g: 0, b: 0, a: 0}
+  inactiveColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &2147114068
 Rigidbody2D:
   serializedVersion: 4

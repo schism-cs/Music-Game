@@ -15,14 +15,22 @@ public class NoteTargetController : MonoBehaviour
     public bool isRecording;
     public MetronomeController metronome;
     public GameObject recordedTrack;
+
+    public GameObject goodPanel;
+    public GameObject fataPanel;
     
     private bool _isActive;
+    private bool _isDestroying;
+    
     private SpriteRenderer _spriteRenderer;
     private BoxCollider2D _boxCollider2D;
-    
+    private Camera _camera;
+
     private void Start()
     {
+        _camera = Camera.main;
         _isActive = false;
+        _isDestroying = false;
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _spriteRenderer.color = inactiveColor;
 
@@ -35,6 +43,9 @@ public class NoteTargetController : MonoBehaviour
         _isActive = _isActive || Input.GetKey(activationKey);
 
         CheckIfIsActive();
+
+        if (_isDestroying)
+            _isActive = false;
 
         var isPressed = Input.GetKeyDown(activationKey);
         if (isRecording && isPressed)
@@ -60,7 +71,7 @@ public class NoteTargetController : MonoBehaviour
 
         for (var i = 0; i < Input.touchCount; ++i)
         {
-            var wp = Camera.main.ScreenToWorldPoint(Input.GetTouch(i).position);
+            var wp = _camera.ScreenToWorldPoint(Input.GetTouch(i).position);
             var touchPos = new Vector2(wp.x, wp.y);
             
             if (_boxCollider2D == Physics2D.OverlapPoint(touchPos))
@@ -84,13 +95,34 @@ public class NoteTargetController : MonoBehaviour
     {
         if (isRecording) return;
         
-        Debug.Log("Colliding with note");
         if (other.tag.Equals("Note") && _isActive)
         {
-            PointManager.UpdatePoints(100);
-            Destroy(other.gameObject);
+            var noteGO = other.gameObject;
+            noteGO.GetComponent<SpriteRenderer>().color = Color.white;
+            _isDestroying = true;
+            StartCoroutine(DestroyNote(other));
         }
     }
+    
+    IEnumerator TogglePanel(GameObject panelGO)
+    {
+        panelGO.SetActive(true);
+        yield return new WaitForSeconds(0.2f);
+        panelGO.SetActive(false);
+    }
+
+    IEnumerator DestroyNote(Collider2D other)
+    {
+        var distance = Math.Abs(other.gameObject.transform.position.y - transform.position.y);
+        Debug.Log("Distance between note and target: " + distance);
+
+        StartCoroutine(distance < 0.25 ? TogglePanel(fataPanel) : TogglePanel(goodPanel));
+        
+        yield return new WaitForSeconds(0.2f);
+        PointManager.UpdatePoints(100);
+        Destroy(other.gameObject);
+        _isDestroying = false;
+    }    
 
     private void OnMouseDown()
     {
