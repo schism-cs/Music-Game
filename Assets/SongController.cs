@@ -40,6 +40,17 @@ public class SongController : MonoBehaviour
         StartCoroutine(PlaySoundWithDelay(1));
     }
 
+    public void StopSong()
+    {
+        foreach (var note in notes)
+        {
+            note.isPlaying = false;
+            note.isRecording = false;
+        }
+
+        _audioSource.Stop();
+    }
+
     private IEnumerator PlaySoundWithDelay(float seconds)
     {
         yield return new WaitForSeconds(seconds);

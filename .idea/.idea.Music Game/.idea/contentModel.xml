@@ -6,6 +6,7 @@
     <e p="F:\01. Personal Projects\Unity Tests\Music Game" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="EndGamePanel.cs" t="Include" />
         <e p="LevelLoader.cs" t="Include" />
         <e p="PointManager.cs" t="Include" />
         <e p="RecordedTrackController.cs" t="Include" />

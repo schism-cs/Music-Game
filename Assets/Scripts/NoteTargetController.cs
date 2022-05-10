@@ -18,6 +18,8 @@ public class NoteTargetController : MonoBehaviour
 
     public GameObject goodPanel;
     public GameObject fataPanel;
+
+    public GameObject endGamePanel;
     
     private bool _isActive;
     private bool _isDestroying;
@@ -26,6 +28,8 @@ public class NoteTargetController : MonoBehaviour
     private BoxCollider2D _boxCollider2D;
     private Camera _camera;
 
+    private SongController _songController;
+    
     private void Start()
     {
         _camera = Camera.main;
@@ -35,6 +39,8 @@ public class NoteTargetController : MonoBehaviour
         _spriteRenderer.color = inactiveColor;
 
         _boxCollider2D = GetComponent<BoxCollider2D>();
+
+        _songController = FindObjectOfType<SongController>();
     }
 
     private void Update()
@@ -102,19 +108,23 @@ public class NoteTargetController : MonoBehaviour
             _isDestroying = true;
             StartCoroutine(DestroyNote(other));
         }
+
+        if (other.tag.Equals("EndNote"))
+        {
+            OpenEndGameModal();
+        }
     }
-    
-    IEnumerator TogglePanel(GameObject panelGO)
+
+    private void OpenEndGameModal()
     {
-        panelGO.SetActive(true);
-        yield return new WaitForSeconds(0.2f);
-        panelGO.SetActive(false);
+        _songController.StopSong();
+        endGamePanel.SetActive(true);
     }
+
 
     IEnumerator DestroyNote(Collider2D other)
     {
         var distance = Math.Abs(other.gameObject.transform.position.y - transform.position.y);
-        Debug.Log("Distance between note and target: " + distance);
 
         StartCoroutine(distance < 0.25 ? TogglePanel(fataPanel) : TogglePanel(goodPanel));
         
@@ -122,7 +132,14 @@ public class NoteTargetController : MonoBehaviour
         PointManager.UpdatePoints(100);
         Destroy(other.gameObject);
         _isDestroying = false;
-    }    
+    }
+    
+    IEnumerator TogglePanel(GameObject panelGO)
+    {
+        panelGO.SetActive(true);
+        yield return new WaitForSeconds(0.4f);
+        panelGO.SetActive(false);
+    }
 
     private void OnMouseDown()
     {
