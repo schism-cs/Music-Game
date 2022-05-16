@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70f24730-d61a-44d0-8176-5742d15f93c1" name="Default Changelist" comment="" />
+    <list default="true" id="70f24730-d61a-44d0-8176-5742d15f93c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Music Game/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,9 +55,9 @@
         <option value="$PROJECT_DIR$/Assets/StartHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/LevelLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NoteController.cs" />
-        <option value="$PROJECT_DIR$/Assets/SongController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NoteTargetController.cs" />
         <option value="$PROJECT_DIR$/Assets/EndGamePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SongController.cs" />
       </list>
     </option>
   </component>
@@ -108,6 +111,7 @@
       <workItem from="1652035965450" duration="2283000" />
       <workItem from="1652133108839" duration="2998000" />
       <workItem from="1652218772116" duration="2811000" />
+      <workItem from="1652644125455" duration="688000" />
     </task>
     <servers />
   </component>
