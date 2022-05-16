@@ -30,6 +30,7 @@
       <Path>BuildWebGL</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
+      <Path>Temp</Path>
       <Path>UserSettings</Path>
       <Path>hgjkhjhjkj</Path>
       <Path>obj</Path>

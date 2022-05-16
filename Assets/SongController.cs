@@ -6,6 +6,8 @@ using UnityEngine;
 public class SongController : MonoBehaviour
 {
     public GameObject notesContainer;
+
+    public float SongDelay;
     
     private NoteController[] notes; 
     private AudioSource _audioSource;
@@ -25,7 +27,7 @@ public class SongController : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.P))
         {
-            StartCoroutine(PlaySoundWithDelay(1));
+            StartCoroutine(PlaySoundWithDelay(SongDelay));
         }
     }
 
@@ -37,7 +39,7 @@ public class SongController : MonoBehaviour
             note.isRecording = false;
         }
 
-        StartCoroutine(PlaySoundWithDelay(1));
+        StartCoroutine(PlaySoundWithDelay(SongDelay));
     }
 
     public void StopSong()

@@ -11,6 +11,8 @@ public class NoteController : MonoBehaviour
 
     public Color activeColor;
     public Color inactiveColor;
+
+    public float timestampNote;
     
     private PointManager _pointManager;
     private SpriteRenderer _spriteRenderer;
@@ -25,6 +27,7 @@ public class NoteController : MonoBehaviour
         _spriteRenderer.color = inactiveColor;
 
         _boxCollider2D = GetComponent<BoxCollider2D>();
+        
     }
 
     private void Update()
@@ -52,5 +55,10 @@ public class NoteController : MonoBehaviour
         yield return new WaitForSeconds(0.2f);
         _pointManager.UpdatePoints(-100);
         Destroy(noteGO);
-    } 
+    }
+
+    public void SetTime()
+    {
+        timestampNote = Time.time;
+    }
 }

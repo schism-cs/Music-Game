@@ -63,6 +63,7 @@ public class NoteTargetController : MonoBehaviour
             noteController.noteSpeed = metronome.LineSpeed;
             noteController.isRecording = true;
             noteController.isPlaying = true;
+            noteController.SetTime();
         }
 
         if (Input.GetKeyUp(activationKey))
